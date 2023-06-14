@@ -1,3 +1,8 @@
 # First_Repository
-This is my first repository.
-Que va este no es el primero
+
+## Integrantes
+- Nicolas Tinjacá Topía
+- Jose Luis Salamanca López
+- Nicolas Sarmiento vargas
+
+![waifu](https://media.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif)
