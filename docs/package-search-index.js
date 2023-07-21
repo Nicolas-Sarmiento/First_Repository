@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"co.edu.uptc.controller"},{"l":"co.edu.uptc.model"},{"l":"co.edu.uptc.model.persontypes"},{"l":"co.edu.uptc.test"},{"l":"co.edu.uptc.utilities"}];updateSearchResults();
